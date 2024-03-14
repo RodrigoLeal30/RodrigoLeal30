@@ -22,7 +22,7 @@ Estas son algunas de las principales tecnologías que uso o en las que he trabaj
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
 |--|--|--|
 
-**Libraries and Frameworks**
+**Frameworks**
 
 <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Spring" alt="Spring" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">
 |--|--|--|
