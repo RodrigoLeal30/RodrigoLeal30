@@ -43,13 +43,13 @@ Estas son algunas de las principales tecnologías que uso o en las que he trabaj
   <strong>Sobre mi</strong>
 </p>
 <ul>
-  <li>📍 Chile.</li>
-  <li>👨🏼‍💻 Tengo 30 años.</li>
-  <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
+  <li> 🚩 Chile.</li>
+  <li> 🥳 Tengo 31 años.</li>
+  
   <li>
-    💻 Las Tecnologías que realmente me apasionan son: React, Node, TS, Flutter.
+    💻 Las Tecnologías que realmente me apasionan son: java,Sql Server , html, Css , Js.
   </li>
-  <li>🧐 Intereses: a11y y AI</li>
+  
 </ul>
 
 <p>
@@ -57,15 +57,13 @@ Estas son algunas de las principales tecnologías que uso o en las que he trabaj
 </p>
 <ul>
   <li>
-    🎼 Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica,
-    teclado y ukelele).
+    🎼 Tocar la Guitarra
   </li>
   <li>🤓 Ver anime</li>
   <li>👾 Jugar videojuegos</li>
+  <li>✈️ Salir de Viajes con Amigos</li>
 </ul>
 
-<p>
-  <strong>Voluntariados</strong>
-</p>
-<ul>
+
+
 
