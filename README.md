@@ -12,9 +12,10 @@ aplicar y expandir mis
 habilidades en el ámbito del
 desarrollo web
 
-## Skill Set :muscle:
+## Habilidades :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+
+Estas son algunas de las principales tecnologías que uso o en las que he trabajado en el pasado:
 
 **Programming Languages**
 
