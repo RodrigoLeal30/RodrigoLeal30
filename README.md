@@ -179,36 +179,6 @@ Aplicación para la administración de clientes, registro de mantenciones de pis
 
 ---
 
-<!-- ESTADISTICAS -->
-
-<h2 align="center">📊 Mis estadísticas de GitHub</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RodrigoLeal30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&locale=es"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLeal30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&locale=es"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=RodrigoLeal30&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=38BDF8&locale=es"/>
-
-</div>
-
----
-
-<!-- ACTIVIDAD -->
-
-<h2 align="center">📈 Actividad y contribuciones</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoLeal30&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Mi%20actividad%20de%20desarrollo"/>
-
-</div>
-
----
-
 <!-- APRENDIZAJE -->
 
 <h2 align="center">🎯 Actualmente aprendiendo</h2>
